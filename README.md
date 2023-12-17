@@ -61,7 +61,7 @@ The algorithms and tests follow the logic below:
 
 ## ✒️ Authors
 
-Rafael Albuquerque - PPGA/UFRGS
+Rafael Albuquerque - PPGA/UFRGS and
 Vinícius Brei - PPGA/UFRGS
 
 
